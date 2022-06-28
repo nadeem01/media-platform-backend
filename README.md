@@ -7,7 +7,7 @@
 3. run seeders
 4.  run "npm run dev"
 
-## tecnology info
+## technology info
 1. Node(Express)
 2. Sequelize
 3. Postgres
